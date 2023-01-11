@@ -1,0 +1,17 @@
+* 85721ae estaciones del año con nuevo
+*   5226cb4 Resolviendo conflictos del merging
+|\  
+| * d8cdd9b agregando index.js al html
+* | f39c9a6 Modificando html
+* |   4f0177e Merge branch 'js'
+|\ \  
+| * | b084102 Creando index.js
+* | | 5189af6 Creando style.css
+| |/  
+|/|   
+* | 4c960e9 creando index.html
+|/  
+* 4b53d23 Creando licencia - fourth commit
+* 6ee08e3 third commit
+* cd42f64 second commit
+* fb64cef first commit
